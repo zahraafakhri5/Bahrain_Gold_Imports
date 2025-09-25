@@ -1,9 +1,5 @@
-# Bahrain_Gold_Imports
-Old is Gold: Business Expansion Analysis – Delivered a data analytics project analyzing over 1 million rows of sales and market data to support a fictional gold company’s expansion strategy. Designed interactive dashboards and performed DAX calculations for trend analysis and decision-making. 
- <h1 align="center">Hi 👋, I'm Zahraa Fakhri Abdulla Rashid Alrashid</h1>
+<h1 align="center">Hi 👋, I'm Zahraa Fakhri Abdulla Rashid Alrashid</h1>
 <h3 align="center">Passionate about HR, research, and using data to improve decision-making.</h3>
-
-- 🔭 I’m currently working on **Bachlor degree on HR**
 
 - 👨‍💻 All of my projects are available at [https://www.notion.so/Zahraa-Alrashid-253c4599c4a88017b23ac2575c71589c](https://www.notion.so/Zahraa-Alrashid-253c4599c4a88017b23ac2575c71589c)
 
@@ -16,3 +12,4 @@ Old is Gold: Business Expansion Analysis – Delivered a data analytics project 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
